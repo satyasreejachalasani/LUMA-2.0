@@ -1,4 +1,5 @@
 # LUMA 2.0 - Emotional Wellness Companion
+Live app: https://luma-analytics.netlify.app/login
 
 LUMA is a compassionate emotional wellness companion built with React, TypeScript, and Google Gemini AI. It provides a safe space for users to express their emotions, track their mood, practice mindfulness exercises, and receive personalized emotional support through AI-powered conversations.
 
